@@ -1,7 +1,7 @@
 ![logo](https://github.com/Mubeen-Ahmed-MU/Mubeen-Ahmed-MU/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mubeen Ahmed</h1>
 <h3 align="center">A passionate Android and Flutter developer from Sindh Pakistan</h3>
-<img align="left" atl ="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fanimated-man-computer-coding-nae6mec378lsg1i3.html&psig=AOvVaw3T-Fj-r8pSje2mc7EwN-9c&ust=1710786283040000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCY4OP1-4QDFQAAAAAdAAAAABAo">
+<img align="right" atl ="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fanimated-man-computer-coding-nae6mec378lsg1i3.html&psig=AOvVaw3T-Fj-r8pSje2mc7EwN-9c&ust=1710786283040000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCY4OP1-4QDFQAAAAAdAAAAABAo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Flooneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW&psig=AOvVaw1pYsB_3po-q10MXh0zfuWl&ust=1710787704471000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCpuYf7-4QDFQAAAAAdAAAAABAE)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeen-ahmed-mu&label=Profile%20views&color=0e75b6&style=flat" alt="mubeen-ahmed-mu" /> </p>
 
 - 🌱 I’m currently learning **Flutter and ReactJS**
