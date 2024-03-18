@@ -1,4 +1,4 @@
-![logo](https://github.com/Mubeen-Ahmed-MU/Mubeen-Ahmed-MU/blob/main/banner.png)
+![logo](https://github.com/Mubeen-Ahmed-MU/Mubeen-Ahmed-MU/blob/main/banners.png)
 <h1 align="center">Hi 👋, I'm Mubeen Ahmed</h1>
 <h3 align="center">A passionate Android and Flutter developer from Sindh Pakistan</h3>
 <img align="right" atl ="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952exea5mob6h3xygvbgmy4glfb2m2yr9uaggl56txb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
