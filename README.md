@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/mubeen-ahmed-514069201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubeen-ahmed-514069201" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC4B3sSeGe5Dc-z-TWXR8zXQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC4B3sSeGe5Dc-z-TWXR8zXQ" height="30" width="40" /></a>
  
-  <a href="https://mubeen-ahmed-mu.github.io/my_resume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="https://mubeen-ahmed-mu.github.io/my_resume/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
