@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubeen Ahmed</h1>
 <h3 align="center">A passionate Odoo Developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/0f6bcade-09a3-4578-a4b8-5a950f956763)
-">
+<img align="right" alt="coding" width="400" src="/fav.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeen-ahmed-mu&label=Profile%20views&color=0e75b6&style=flat" alt="mubeen-ahmed-mu" /> </p>
