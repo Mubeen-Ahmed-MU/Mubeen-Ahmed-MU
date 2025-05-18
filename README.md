@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mubeen Ahmed</h1>
 <h3 align="center">A passionate Odoo Developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3kX5A7eesYR5xvoP0Xcz-1&ust=1747663715738000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCJ5uiYrY0DFQAAAAAdAAAAABAT">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/0f6bcade-09a3-4578-a4b8-5a950f956763)
+">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeen-ahmed-mu&label=Profile%20views&color=0e75b6&style=flat" alt="mubeen-ahmed-mu" /> </p>
