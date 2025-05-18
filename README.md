@@ -1,3 +1,4 @@
+![logo](https://github.com/Mubeen-Ahmed-MU/Mubeen-Ahmed-MU/blob/main/odoo.png)
 <h1 align="center">Hi 👋, I'm Mubeen Ahmed</h1>
 <h3 align="center">A passionate Odoo Developer from Pakistan</h3>
 
